@@ -1,0 +1,1 @@
+import{d as t,b as o,c as s,e as a,am as n}from"./entry.b0da741b.js";const l={class:"flex items-stretch"},b=t({__name:"ppw-bloc",props:{title:{},btnlabel:{},btnto:{},btnlabel2:{},btnto2:{},background:{}},setup(r){return(e,c)=>(o(),s("div",l,[a("p",null,[n(e.$slots,"default")])]))}});export{b as default};

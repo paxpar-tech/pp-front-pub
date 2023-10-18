@@ -1,0 +1,1 @@
+import{k as s,c,am as o,b as t}from"./entry.b0da741b.js";const a={},n={id:"docus-page",class:"flex min-h-screen w-full flex-col"};function r(e,l){return t(),c("div",n,[o(e.$slots,"default")])}const d=s(a,[["render",r]]);export{d as default};

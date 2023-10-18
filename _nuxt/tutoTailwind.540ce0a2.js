@@ -1,0 +1,1 @@
+import{k as s,b as t,c,e}from"./entry.b0da741b.js";const o={},a=e("h1",null,"Tailwind CSS",-1),n=e("div",{class:"avatar"},[e("div",{class:"w-24 rounded-full"},[e("img",{src:"https://placeimg.com/192/192/people"})])],-1),l=[a,n];function i(r,d){return t(),c("div",null,l)}const p=s(o,[["render",i]]);export{p as default};
